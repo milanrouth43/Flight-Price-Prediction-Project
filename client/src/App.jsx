@@ -147,7 +147,7 @@ function App() {
         )}
       </div>
 
-      <div className="signature-badge">Project by Milan</div>
+      <div className="signature-badge">Built with ❤️ by Milan</div>
     </>
   );
 }
