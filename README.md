@@ -205,8 +205,6 @@ The prediction model considers the following parameters:
 
 ## Home Page
 
-## Home Page
-
 ![Home Page](assets/homepage.png)
 
 ---
