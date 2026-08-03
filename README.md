@@ -205,13 +205,15 @@ The prediction model considers the following parameters:
 
 ## Home Page
 
-> Add a screenshot here
+## Home Page
+
+![Home Page](assets/homepage.png)
 
 ---
 
 ## Prediction Result
 
-> Add a screenshot here
+![Prediction](assets/prediction.png)
 
 ---
 
